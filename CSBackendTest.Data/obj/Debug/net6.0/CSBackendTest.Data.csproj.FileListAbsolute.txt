@@ -1,0 +1,12 @@
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/bin/Debug/net6.0/CSBackendTest.Data.deps.json
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/bin/Debug/net6.0/CSBackendTest.Data.dll
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/bin/Debug/net6.0/ref/CSBackendTest.Data.dll
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/bin/Debug/net6.0/CSBackendTest.Data.pdb
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.csproj.AssemblyReference.cache
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.AssemblyInfoInputs.cache
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.AssemblyInfo.cs
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.csproj.CoreCompileInputs.cache
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.dll
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/ref/CSBackendTest.Data.dll
+/home/iskander/Desktop/CSBackendTest/CSBackendTest.Data/obj/Debug/net6.0/CSBackendTest.Data.pdb
